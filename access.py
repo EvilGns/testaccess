@@ -1,7 +1,7 @@
 import boto3
 
 # Hardcoded AWS Access Key (Replace with your real key)
-aws_access_key = 'AKIAEXAMPLEACCESSKEY'
+aws_access_key = ''
 aws_secret_key = 'YourSecretKeyHere'
 
 # Initialize an AWS S3 client
